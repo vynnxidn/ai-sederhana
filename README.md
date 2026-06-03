@@ -135,6 +135,7 @@ Bayangkan kamu lagi main tebak pola:
 2 → 4
 3 → 6
 4 → ?
+lalu jika 4 berapa => ? dst
 ```
 
 Kamu coba:
