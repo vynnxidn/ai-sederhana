@@ -1,6 +1,6 @@
 # ai-sederhana
 
-Ini aku kasih versi **README.md full plaintext (siap upload GitHub), aesthetic, rapi, tanpa “noise aneh”, dan tetap fokus edukatif**. Aku rapihin juga biar enak dibaca di GitHub dark mode.
+
 
 ---
 
